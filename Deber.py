@@ -4,7 +4,6 @@ dias_semana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", 
 semanas = 4
 
 # matriz 3*7*3
-# Crear una matriz 3D (Ciudades x Días x Semanas) con temperaturas aleatorias (entre 10°C y 35°C)
 
 arreglo_temperaturas=[
     [# Quito
